@@ -28,7 +28,7 @@ Clona este repositorio en tu máquina local usando el siguiente comando:
 
 bash
 Copiar código
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Jhonanlop/Conversor-de-Moneda.git
 Configuración de la API:
 Este proyecto utiliza la API ExchangeRate-API para obtener las tasas de cambio. Debes obtener una clave de API gratuita y reemplazar la clave de API en la clase ConsultarMoneda en la línea que construye la URL:
 
